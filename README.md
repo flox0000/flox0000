@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flox0000
 - 👀 I’m interested in web developement /design
-- 🌱 I’m currently learning Bootstrap5, Javascript
+- 🌱 I’m currently learning Javascript, Express, ejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
